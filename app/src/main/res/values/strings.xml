@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github Sample</string>
+
+    <!--Main Activity start-->
+    <string name="main_activity_getting_data">Getting Data ...</string>
+    <!--Main Activity end-->
+
+
+    <!--Main Contributor adapter start-->
+    <string name="contributor_adapter_developer_name">Developer Name: </string>
+    <string name="contributor_adapter_total_commits">Total commits:</string>
+
+    <!--Main Contributor adapter end-->
+</resources>
